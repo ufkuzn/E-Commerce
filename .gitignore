@@ -46,3 +46,6 @@ Services\Order\Infrastructure\EC.Order.Persistance\Migrations\*.cs
 Services\Order\Presentation\EC.Order.WebApi\Properties\launchSettings.json
 Services\Order\Presentation\EC.Order.WebApi\EC.Order.WebApi.http
 Services\Order\Presentation\EC.Order.WebApi\appsettings.json
+
+# Visual Studio files
+.vs/
