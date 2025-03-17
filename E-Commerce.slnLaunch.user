@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Discount\\EC.Discount\\EC.Discount.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Services\\Order\\Presentation\\EC.Order.WebApi\\EC.Order.WebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

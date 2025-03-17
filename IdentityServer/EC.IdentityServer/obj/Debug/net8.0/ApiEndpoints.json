@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EC.IdentityServer.Controllers.RegistersController",
+    "Method": "UserRegister",
+    "RelativePath": "api/Registers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegisterDto",
+        "Type": "EC.IdentityServer.Dtos.UserRegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

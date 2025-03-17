@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ISb3LiHv3M1hhxBpl9zEnkPlNZSQ1Fbt4GnCGOKJJBc=",
+  "Source": "EC.Order.WebApi",
+  "BasePath": "_content/EC.Order.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -22,3 +22,27 @@ docs/
 
 # Code coverage
 *.lst
+
+IdentityServer\EC.IdentityServer\Properties\launchSettings.json
+IdentityServer\EC.IdentityServer\appsettings.json
+IdentityServer\EC.IdentityServer\Migrations\*.cs
+IdentityServer\EC.IdentityServer\keys\is-signing-key-90165058EF770E49FAD78C4F3C5E8985.json
+
+Information\PortNumbers.txt
+
+Services\Catalog\EC.Catalog\Properties\launchSettings.json
+Services\Catalog\EC.Catalog\EC.Catalog.http
+Services\Catalog\EC.Catalog\appsettings.json
+
+Services\Discount\EC.Discount\launchSettings.json
+Services\Discount\EC.Discount\Context\DapperContext.cs
+Services\Discount\EC.Discount\Migrations\*.cs
+Services\Discount\EC.Discount\EC.Discount.http
+Services\Discount\EC.Discount\appsettings.json
+
+Services\Order\Infrastructure\EC.Order.Persistance\Context\OrderContext.cs
+Services\Order\Infrastructure\EC.Order.Persistance\Migrations\*.cs
+
+Services\Order\Presentation\EC.Order.WebApi\Properties\launchSettings.json
+Services\Order\Presentation\EC.Order.WebApi\EC.Order.WebApi.http
+Services\Order\Presentation\EC.Order.WebApi\appsettings.json

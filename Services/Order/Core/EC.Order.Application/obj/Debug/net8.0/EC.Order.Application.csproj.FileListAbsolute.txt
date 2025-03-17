@@ -1,0 +1,15 @@
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\bin\Debug\net8.0\EC.Order.Application.deps.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\bin\Debug\net8.0\EC.Order.Application.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\bin\Debug\net8.0\EC.Order.Application.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\bin\Debug\net8.0\EC.Order.Domain.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\bin\Debug\net8.0\EC.Order.Domain.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.csproj.AssemblyReference.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.AssemblyInfoInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.AssemblyInfo.cs
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.F03901FB.Up2Date
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\refint\EC.Order.Application.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\ref\EC.Order.Application.dll
