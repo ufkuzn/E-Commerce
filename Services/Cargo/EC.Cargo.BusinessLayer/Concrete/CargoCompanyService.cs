@@ -1,0 +1,46 @@
+﻿using EC.Cargo.BusinessLayer.Abstract;
+using EC.Cargo.DataAccessLayer.Abstract;
+using EC.Cargo.EntityLayer.Concrete;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EC.Cargo.BusinessLayer.Concrete
+{
+    public class CargoCompanyService : ICargoCompanyService
+    {
+        private readonly ICargoCompanyDal _cargoCompanyDal;
+
+        public CargoCompanyService(ICargoCompanyDal cargoCompanyDal)
+        {
+            _cargoCompanyDal = cargoCompanyDal;
+        }
+
+        public void TDelete(int id)
+        {
+            _cargoCompanyDal.Delete(id);
+        }
+
+        public List<CargoCompany> TGetAll()
+        {
+            return _cargoCompanyDal.GetAll();
+        }
+
+        public CargoCompany TGetById(int id)
+        {
+            return _cargoCompanyDal.GetById(id);
+        }
+
+        public void TInsert(CargoCompany entity)
+        {
+            _cargoCompanyDal.Insert(entity);
+        }
+
+        public void TUpdate(CargoCompany entity)
+        {
+            _cargoCompanyDal.Update(entity);
+        }
+    }
+}

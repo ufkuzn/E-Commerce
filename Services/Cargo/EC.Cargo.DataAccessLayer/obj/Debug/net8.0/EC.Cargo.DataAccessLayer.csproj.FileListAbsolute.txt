@@ -1,0 +1,16 @@
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\bin\Debug\net8.0\EC.Cargo.DataAccessLayer.deps.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\bin\Debug\net8.0\EC.Cargo.DataAccessLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\bin\Debug\net8.0\EC.Cargo.DataAccessLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.sourcelink.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.2EE309E5.Up2Date
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\refint\EC.Cargo.DataAccessLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\EC.Cargo.DataAccessLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DataAccessLayer\obj\Debug\net8.0\ref\EC.Cargo.DataAccessLayer.dll

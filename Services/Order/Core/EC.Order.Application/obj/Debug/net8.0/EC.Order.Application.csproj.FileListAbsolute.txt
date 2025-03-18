@@ -13,3 +13,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Applicat
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\refint\EC.Order.Application.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.pdb
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\ref\EC.Order.Application.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Application\obj\Debug\net8.0\EC.Order.Application.sourcelink.json

@@ -172,3 +172,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Discount\EC.Discount\obj\Deb
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Discount\EC.Discount\obj\Debug\net8.0\EC.Discount.genruntimeconfig.cache
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Discount\EC.Discount\obj\Debug\net8.0\ref\EC.Discount.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Discount\EC.Discount\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Discount\EC.Discount\obj\Debug\net8.0\EC.Discount.sourcelink.json

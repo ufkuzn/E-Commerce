@@ -56,3 +56,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Catalog\EC.Catalog\bin\Debug
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Catalog\EC.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Catalog\EC.Catalog\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Catalog\EC.Catalog\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Catalog\EC.Catalog\obj\Debug\net8.0\EC.Catalog.sourcelink.json

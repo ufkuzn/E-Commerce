@@ -179,3 +179,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Presentation\EC.Order.
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Presentation\EC.Order.WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Presentation\EC.Order.WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Presentation\EC.Order.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Presentation\EC.Order.WebApi\obj\Debug\net8.0\EC.Order.WebApi.sourcelink.json

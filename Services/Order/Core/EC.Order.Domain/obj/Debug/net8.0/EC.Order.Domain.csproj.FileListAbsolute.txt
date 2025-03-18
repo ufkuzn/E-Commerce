@@ -9,3 +9,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Domain\o
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Domain\obj\Debug\net8.0\refint\EC.Order.Domain.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Domain\obj\Debug\net8.0\EC.Order.Domain.pdb
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Domain\obj\Debug\net8.0\ref\EC.Order.Domain.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Core\EC.Order.Domain\obj\Debug\net8.0\EC.Order.Domain.sourcelink.json

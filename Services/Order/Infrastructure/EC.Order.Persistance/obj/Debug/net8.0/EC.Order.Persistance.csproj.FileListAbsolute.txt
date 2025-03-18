@@ -17,3 +17,4 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Infrastructure\EC.Orde
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Infrastructure\EC.Order.Persistance\obj\Debug\net8.0\EC.Order.Persistance.pdb
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Infrastructure\EC.Order.Persistance\obj\Debug\net8.0\EC.Order.Persistance.genruntimeconfig.cache
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Infrastructure\EC.Order.Persistance\obj\Debug\net8.0\ref\EC.Order.Persistance.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Order\Infrastructure\EC.Order.Persistance\obj\Debug\net8.0\EC.Order.Persistance.sourcelink.json

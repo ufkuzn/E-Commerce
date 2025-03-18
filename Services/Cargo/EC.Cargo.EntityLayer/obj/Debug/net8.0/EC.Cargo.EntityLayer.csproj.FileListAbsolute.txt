@@ -1,0 +1,15 @@
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.deps.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.runtimeconfig.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\bin\Debug\net8.0\EC.Cargo.EntityLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.AssemblyInfo.cs
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.sourcelink.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\refint\EC.Cargo.EntityLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\EC.Cargo.EntityLayer.genruntimeconfig.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.EntityLayer\obj\Debug\net8.0\ref\EC.Cargo.EntityLayer.dll

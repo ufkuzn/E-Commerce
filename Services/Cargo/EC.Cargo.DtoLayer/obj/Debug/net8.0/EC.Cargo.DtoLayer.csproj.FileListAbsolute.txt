@@ -1,0 +1,12 @@
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\bin\Debug\net8.0\EC.Cargo.DtoLayer.deps.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\bin\Debug\net8.0\EC.Cargo.DtoLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\bin\Debug\net8.0\EC.Cargo.DtoLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.AssemblyInfo.cs
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.sourcelink.json
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\refint\EC.Cargo.DtoLayer.dll
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\EC.Cargo.DtoLayer.pdb
+C:\Users\ufuk.uzun\source\repos\E-Commerce\Services\Cargo\EC.Cargo.DtoLayer\obj\Debug\net8.0\ref\EC.Cargo.DtoLayer.dll

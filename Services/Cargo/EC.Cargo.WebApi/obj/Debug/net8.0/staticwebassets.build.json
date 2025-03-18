@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u7/wdjvWC7pdbuWmD7BuX+FqLnUEE3PqGqMN5WDJvus=",
+  "Source": "EC.Cargo.WebApi",
+  "BasePath": "_content/EC.Cargo.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

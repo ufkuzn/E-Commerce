@@ -17,6 +17,10 @@
       {
         "Path": "Services\\Order\\Presentation\\EC.Order.WebApi\\EC.Order.WebApi.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
+        "Action": "Start"
       }
     ]
   }
