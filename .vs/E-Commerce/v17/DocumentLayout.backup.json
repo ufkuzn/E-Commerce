@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\controllers\\cargooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\controllers\\cargooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\services\\abstract\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\services\\abstract\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\controllers\\cargodetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\controllers\\cargodetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\controllers\\cargocustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\controllers\\cargocustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\controllers\\cargocompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\controllers\\cargocompaniescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\cargo\\ec.cargo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C983C0BC-6E7E-4CFC-912A-A44EE1C410B4}|Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\ec.cargo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D45BCE4-28B3-87C3-54F8-B6DDE0AF33F0}|IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\identityserver\\ec.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D45BCE4-28B3-87C3-54F8-B6DDE0AF33F0}|IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj|solutionrelative:identityserver\\ec.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T12:57:03.405Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:43:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Abstract\\IBasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Services\\Abstract\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Abstract\\IBasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Services\\Abstract\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:41:28.927Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -63,97 +87,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CargoOperationsController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:27:06.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CargoDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoDetailsController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoDetailsController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoDetailsController.cs",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:27:01.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CargoCustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCustomersController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCustomersController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCustomersController.cs",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCustomersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:26:46.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CargoCompaniesController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Controllers\\CargoCompaniesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:26:34.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-18T11:26:21.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\EC.Cargo.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\Program.cs",
-              "RelativeToolTip": "Services\\Cargo\\EC.Cargo.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:22:23.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\EC.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\EC.IdentityServer\\Config.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T11:21:26.755Z",
-              "EditorCaption": ""
             }
           ]
         }

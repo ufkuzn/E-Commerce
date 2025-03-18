@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EC.Cargo.EntityLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d216d430d54011946a485f052256625960e1cbe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1992c619753883de7a5e0f4c51bb76132defc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EC.Cargo.EntityLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EC.Cargo.EntityLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

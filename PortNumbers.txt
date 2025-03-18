@@ -4,3 +4,4 @@ Catalog --> 7250
 Discount --> 7251
 Order --> 7252
 Cargo --> 7253
+Basket --> 7254

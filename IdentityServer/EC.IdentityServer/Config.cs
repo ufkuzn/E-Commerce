@@ -27,6 +27,11 @@ public static class Config
                 Scopes = {"CargoFullPermission"}
             },
 
+            new ApiResource("ResourceBasket")
+            {
+                Scopes = { "BasketFullPermission" }
+            },
+
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
         };
 
@@ -46,6 +51,7 @@ public static class Config
         new ApiScope("DiscountFullPermission", "Full authority for discount operations"),
         new ApiScope("OrderFullPermission", "Full authority for order operations"),
         new ApiScope("CargoFullPermission", "Full authority for cargo operations"),
+        new ApiScope("BasketFullPermission", "Full authority for basket operations"),
         new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
     };
 
@@ -79,7 +85,7 @@ public static class Config
             ClientName = "ECommerce Admin User",
             AllowedGrantTypes = GrantTypes.ClientCredentials,
             ClientSecrets = {new Secret("ecommercesecretadmin".Sha256())},
-            AllowedScopes = {"CatalogFullPermission", "CatalogReadPermission", "DiscountFullPermission", "OrderFullPermission", "CargoFullPermission", IdentityServerConstants.LocalApi.ScopeName, IdentityServerConstants.StandardScopes.Email,IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile},
+            AllowedScopes = {"CatalogFullPermission", "CatalogReadPermission", "DiscountFullPermission", "OrderFullPermission", "CargoFullPermission", "BasketFullPermission", IdentityServerConstants.LocalApi.ScopeName, IdentityServerConstants.StandardScopes.Email,IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile},
             AccessTokenLifetime = 600 //sn
         }
     };

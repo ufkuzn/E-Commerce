@@ -1,0 +1,6 @@
+@EC.Basket_HostAddress = http://localhost:5182
+
+GET {{EC.Basket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
