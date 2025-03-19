@@ -21,6 +21,7 @@ namespace EC.Basket.Controllers
         [HttpGet]
         public async Task<IActionResult> GetBasket()
         {
+            var user = User.Claims; //Sisteme girmiş olan tokenın bilgilerini verir.
             var values = await _basketService.GetBasket(_loginService.GetUserId);
             return Ok(values);
         }

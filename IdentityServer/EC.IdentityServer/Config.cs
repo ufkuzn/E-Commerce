@@ -73,7 +73,7 @@ public static class Config
         {
             ClientId = "ECommerceManagerId",
             ClientName = "ECommerce Manager User",
-            AllowedGrantTypes = GrantTypes.ClientCredentials,
+            AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
             ClientSecrets = {new Secret("ecommercesecretmanager".Sha256())},
             AllowedScopes = {"CatalogFullPermission", "CatalogReadPermission"}
         },
@@ -83,7 +83,7 @@ public static class Config
         {
             ClientId = "ECommerceAdminId",
             ClientName = "ECommerce Admin User",
-            AllowedGrantTypes = GrantTypes.ClientCredentials,
+            AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
             ClientSecrets = {new Secret("ecommercesecretadmin".Sha256())},
             AllowedScopes = {"CatalogFullPermission", "CatalogReadPermission", "DiscountFullPermission", "OrderFullPermission", "CargoFullPermission", "BasketFullPermission", IdentityServerConstants.LocalApi.ScopeName, IdentityServerConstants.StandardScopes.Email,IdentityServerConstants.StandardScopes.OpenId, IdentityServerConstants.StandardScopes.Profile},
             AccessTokenLifetime = 600 //sn
