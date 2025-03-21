@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\views\\shared\\components\\_footeruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\views\\shared\\components\\_footeruilayoutcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D45BCE4-28B3-87C3-54F8-B6DDE0AF33F0}|IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\identityserver\\ec.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D45BCE4-28B3-87C3-54F8-B6DDE0AF33F0}|IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj|solutionrelative:identityserver\\ec.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\viewcomponents\\uilayoutviewcomponents\\_footeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\viewcomponents\\uilayoutviewcomponents\\_footeruilayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\views\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\views\\uilayout\\_uilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\dtos\\baskettotaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\dtos\\baskettotaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\wwwroot\\online-shop-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\wwwroot\\online-shop-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\basket\\ec.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69918454-6F81-4DC8-8D99-5BC9846FD0AB}|Services\\Basket\\EC.Basket\\EC.Basket.csproj|solutionrelative:services\\basket\\ec.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\controllers\\uilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\wwwroot\\online-shop-website-template\\index.html",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\wwwroot\\online-shop-website-template\\index.html",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\wwwroot\\online-shop-website-template\\index.html",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\wwwroot\\online-shop-website-template\\index.html",
+              "ViewState": "AgIAAJcCAAAAAAAAAAAAAP8DAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T10:29:42.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UILayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Controllers\\UILayoutController.cs",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Controllers\\UILayoutController.cs",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Controllers\\UILayoutController.cs",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Controllers\\UILayoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:12:43.188Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T06:12:14.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_UILayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\UILayout\\_UILayout.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Views\\UILayout\\_UILayout.cshtml",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\UILayout\\_UILayout.cshtml",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Views\\UILayout\\_UILayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T06:09:50.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\Shared\\Components\\_FooterUiLayoutComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Views\\Shared\\Components\\_FooterUiLayoutComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Views\\Shared\\Components\\_FooterUiLayoutComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Views\\Shared\\Components\\_FooterUiLayoutComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T12:46:32.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_FooterUiLayoutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\ViewComponents\\UILayoutViewComponents\\_FooterUiLayoutComponentPartial.cs",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\ViewComponents\\UILayoutViewComponents\\_FooterUiLayoutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\ViewComponents\\UILayoutViewComponents\\_FooterUiLayoutComponentPartial.cs",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\ViewComponents\\UILayoutViewComponents\\_FooterUiLayoutComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:45:44.086Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -59,84 +141,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BasketTotalDto.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Dtos\\BasketTotalDto.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Dtos\\BasketTotalDto.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Dtos\\BasketTotalDto.cs",
-              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Dtos\\BasketTotalDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:41:11.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\appsettings.json",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\EC.Basket\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T14:15:38.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BasketService.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
-              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Services\\Concrete\\BasketService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:12:06.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Controllers\\BasketsController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:04:02.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\EC.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\EC.IdentityServer\\Config.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwFUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:57:56.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\EC.Basket\\Program.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\EC.Basket\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T13:48:13.079Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -21,8 +21,6 @@ namespace EC.Basket.Services.Concrete
 
         public async Task<BasketTotalDto> GetBasket(string UserId)
         {
-            //var existBasket = await _redisService.GetDb().StringGetAsync(UserId);
-            //return JsonSerializer.Deserialize<BasketTotalDto>(existBasket);
             var existBasket = await _redisService.GetDb().StringGetAsync(UserId);
             if (existBasket.IsNullOrEmpty)
             {
