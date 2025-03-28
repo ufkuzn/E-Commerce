@@ -6,7 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EC.Catalog.Controllers
 {
-    [Authorize]
+    //[Authorize]
+    [AllowAnonymous]
+
     [Route("api/[controller]")]
     [ApiController]
     public class CategoriesController : ControllerBase

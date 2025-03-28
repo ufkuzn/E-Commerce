@@ -58,6 +58,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "Frontends", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC.WebUI", "Frontends\EC.WebUI\EC.WebUI.csproj", "{B1784E37-0270-4551-BCCD-E29023365180}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC.DtoLayer", "Frontends\EC.DtoLayer\EC.DtoLayer.csproj", "{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -120,6 +122,10 @@ Global
 		{B1784E37-0270-4551-BCCD-E29023365180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1784E37-0270-4551-BCCD-E29023365180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1784E37-0270-4551-BCCD-E29023365180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,6 +153,7 @@ Global
 		{458F6C83-CB55-4EE9-BA6E-94AC8E759216} = {C80ABD91-C572-439D-85A5-F6F644E3AB22}
 		{69918454-6F81-4DC8-8D99-5BC9846FD0AB} = {458F6C83-CB55-4EE9-BA6E-94AC8E759216}
 		{B1784E37-0270-4551-BCCD-E29023365180} = {54ECDDC4-5DFD-4688-BEA1-0BC9E2BDDA95}
+		{D75EAD88-7CC4-4A2E-9DB8-9CD49F5A2EA6} = {54ECDDC4-5DFD-4688-BEA1-0BC9E2BDDA95}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B55CE0F6-5A2F-4025-92F1-BC0285797520}

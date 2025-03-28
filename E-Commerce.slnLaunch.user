@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
+        "Path": "Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj",
         "Action": "Start"
       },
       {
-        "Path": "Services\\Basket\\EC.Basket\\EC.Basket.csproj",
+        "Path": "Frontends\\EC.WebUI\\EC.WebUI.csproj",
         "Action": "Start"
       }
     ]
