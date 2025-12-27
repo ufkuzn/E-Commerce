@@ -4833,24 +4833,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ufuk.uzun\\.nuget\\packages\\": {},
+    "C:\\Users\\ufkuz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj",
       "projectName": "EC.Order.Persistance",
-      "projectPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj",
-      "packagesPath": "C:\\Users\\ufuk.uzun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\obj\\",
+      "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj",
+      "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ufuk.uzun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Users\\ufkuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4858,20 +4857,19 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\ufuk.uzun\\Desktop\\nuget": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj": {
-              "projectPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj"
+            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj"
             },
-            "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {
-              "projectPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj"
+            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj"
             }
           }
         }
@@ -4886,7 +4884,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4929,7 +4927,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

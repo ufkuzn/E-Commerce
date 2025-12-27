@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\",
+  "WorkspaceRootPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7CD2713-EBDD-4797-9C24-5D6B123BC76C}|Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\services\\order\\infrastructure\\ec.order.persistance\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2713-EBDD-4797-9C24-5D6B123BC76C}|Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj|solutionrelative:services\\order\\infrastructure\\ec.order.persistance\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\catalog\\ec.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\services\\catalog\\ec.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|solutionrelative:services\\catalog\\ec.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\services\\catalog\\ec.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7CD2713-EBDD-4797-9C24-5D6B123BC76C}|Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\services\\order\\infrastructure\\ec.order.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CD2713-EBDD-4797-9C24-5D6B123BC76C}|Services\\Order\\Infrastructure\\EC.Order.Persistance\\EC.Order.Persistance.csproj|solutionrelative:services\\order\\infrastructure\\ec.order.persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\updatecategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\services\\catalog\\ec.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD50225B-862F-4CB2-8F55-86D782AF93E0}|Services\\Catalog\\EC.Catalog\\EC.Catalog.csproj|solutionrelative:services\\catalog\\ec.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufuk.uzun\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|c:\\users\\ufkuz\\source\\repos\\e-commerce\\frontends\\ec.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B1784E37-0270-4551-BCCD-E29023365180}|Frontends\\EC.WebUI\\EC.WebUI.csproj|solutionrelative:frontends\\ec.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,49 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
               "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-27T11:17:03.479Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAcwGQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T12:38:47.76Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-27T13:19:09.158Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -104,59 +113,88 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
-              "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T07:19:01.059Z",
+              "DocumentIndex": 0,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\EC.Order.Persistance\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\EC.Order.Persistance\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:42:33.562Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastructure\\EC.Order.Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Infrastructure\\EC.Order.Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastructure\\EC.Order.Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:43:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\EC.Catalog\\Program.cs",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\EC.Catalog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:35:12.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T06:03:46.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:34:36.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\EC.Catalog\\Program.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\EC.Catalog\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:35:12.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
-              "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\CreateCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Title": "UpdateCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
+              "ToolTip": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
+              "RelativeToolTip": "Frontends\\EC.WebUI\\Areas\\Admin\\Views\\Category\\UpdateCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T06:03:46.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\EC.Catalog\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:34:36.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T07:19:01.059Z"
             }
           ]
         }

@@ -10,3 +10,15 @@ C:\Users\ufuk.uzun\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\refint\EC.DtoLayer.dll
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.pdb
 C:\Users\ufuk.uzun\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\ref\EC.DtoLayer.dll
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\bin\Debug\net8.0\EC.DtoLayer.deps.json
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\bin\Debug\net8.0\EC.DtoLayer.dll
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\bin\Debug\net8.0\EC.DtoLayer.pdb
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.AssemblyInfo.cs
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.sourcelink.json
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.dll
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\refint\EC.DtoLayer.dll
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\EC.DtoLayer.pdb
+C:\Users\ufkuz\source\repos\E-Commerce\Frontends\EC.DtoLayer\obj\Debug\net8.0\ref\EC.DtoLayer.dll

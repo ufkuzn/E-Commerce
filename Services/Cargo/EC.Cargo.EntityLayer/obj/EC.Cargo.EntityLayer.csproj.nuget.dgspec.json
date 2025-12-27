@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {}
+    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
+    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj",
         "projectName": "EC.Cargo.EntityLayer",
-        "projectPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\ufuk.uzun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ufuk.uzun\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ufuk.uzun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Users\\ufkuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,9 +25,8 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\ufuk.uzun\\Desktop\\nuget": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -90,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
