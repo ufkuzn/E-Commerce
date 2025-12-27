@@ -12,7 +12,7 @@ namespace EC.Cargo.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost;Database=ECCargoDb;User Id=sa;Password=[u8F9u3K);TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("Server=UFUK\\SQLEXPRESS;Database=ECCargoDb;Trusted_Connection=True;TrustServerCertificate=True");
         }
         public DbSet<CargoCompany> CargoCompanies { get; set; }
         public DbSet<CargoDetail> CargoDetails { get; set; }

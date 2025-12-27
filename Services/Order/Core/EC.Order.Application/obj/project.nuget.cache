@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lxnfjcc5gTY=",
+  "dgSpecHash": "L5hf8ZS45jw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj",
+  "projectFilePath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Application\\EC.Order.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ufkuz\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\ufkuz\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

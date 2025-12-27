@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj": {}
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj": {
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
+        "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
         "projectName": "EC.IdentityServer",
-        "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
+        "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\EC.IdentityServer.csproj",
         "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\IdentityServer\\EC.IdentityServer\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1agoT16K78=",
+  "dgSpecHash": "V23PcnrPgY8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ufkuz\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ufkuz\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

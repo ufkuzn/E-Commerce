@@ -2833,9 +2833,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj",
       "projectName": "EC.Cargo.DataAccessLayer",
-      "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
@@ -2859,8 +2859,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ep+OZ/Y4kcE=",
+  "dgSpecHash": "OoGefprga20=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
+  "projectFilePath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ufkuz\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ufkuz\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

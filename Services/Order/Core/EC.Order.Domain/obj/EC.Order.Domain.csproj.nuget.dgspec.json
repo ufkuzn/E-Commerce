@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {}
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj",
         "projectName": "EC.Order.Domain",
-        "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj",
+        "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\EC.Order.Domain.csproj",
         "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Order\\Core\\EC.Order.Domain\\obj\\",
         "projectStyle": "PackageReference",

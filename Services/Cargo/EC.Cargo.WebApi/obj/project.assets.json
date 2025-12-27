@@ -4969,9 +4969,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
       "projectName": "EC.Cargo.WebApi",
-      "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
+      "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\EC.Cargo.WebApi.csproj",
       "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
@@ -4995,17 +4995,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.BusinessLayer\\EC.Cargo.BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.BusinessLayer\\EC.Cargo.BusinessLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.BusinessLayer\\EC.Cargo.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.BusinessLayer\\EC.Cargo.BusinessLayer.csproj"
             },
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DataAccessLayer\\EC.Cargo.DataAccessLayer.csproj"
             },
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DtoLayer\\EC.Cargo.DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DtoLayer\\EC.Cargo.DtoLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DtoLayer\\EC.Cargo.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.DtoLayer\\EC.Cargo.DtoLayer.csproj"
             },
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Cargo\\EC.Cargo.EntityLayer\\EC.Cargo.EntityLayer.csproj"
             }
           }
         }

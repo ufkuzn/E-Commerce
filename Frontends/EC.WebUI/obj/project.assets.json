@@ -5588,9 +5588,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
       "projectName": "EC.WebUI",
-      "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
+      "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
       "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\obj\\",
       "projectStyle": "PackageReference",
@@ -5614,8 +5614,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.DtoLayer\\EC.DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.DtoLayer\\EC.DtoLayer.csproj"
+            "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Frontends\\EC.DtoLayer\\EC.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Frontends\\EC.DtoLayer\\EC.DtoLayer.csproj"
             }
           }
         }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj": {}
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj": {
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj",
+        "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj",
         "projectName": "EC.Basket",
-        "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj",
+        "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Basket\\EC.Basket\\EC.Basket.csproj",
         "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Basket\\EC.Basket\\obj\\",
         "projectStyle": "PackageReference",

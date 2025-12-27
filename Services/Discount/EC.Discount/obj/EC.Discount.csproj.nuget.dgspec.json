@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj": {}
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj": {
+    "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
+        "projectUniqueName": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
         "projectName": "EC.Discount",
-        "projectPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
+        "projectPath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Services\\Discount\\EC.Discount\\EC.Discount.csproj",
         "packagesPath": "C:\\Users\\ufkuz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Services\\Discount\\EC.Discount\\obj\\",
         "projectStyle": "PackageReference",

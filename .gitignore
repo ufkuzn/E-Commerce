@@ -50,3 +50,7 @@ Services\Order\Presentation\EC.Order.WebApi\appsettings.json
 # Visual Studio files
 .vs/
 /Services/Order/Infrastructure/EC.Order.Persistance/Context/OrderContext.cs
+/IdentityServer/EC.IdentityServer/appsettings.json
+/Services/Discount/EC.Discount/appsettings.json
+/Services/Order/Presentation/EC.Order.WebApi/appsettings.json
+/Services/Basket/EC.Basket/appsettings.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6y/NNIQW/Y=",
+  "dgSpecHash": "T/Ma+LETz9A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ufkuz\\source\\repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\ufkuz\\Source\\Repos\\E-Commerce\\Frontends\\EC.WebUI\\EC.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ufkuz\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ufkuz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
