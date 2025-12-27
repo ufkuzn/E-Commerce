@@ -49,3 +49,4 @@ Services\Order\Presentation\EC.Order.WebApi\appsettings.json
 
 # Visual Studio files
 .vs/
+/Services/Order/Infrastructure/EC.Order.Persistance/Context/OrderContext.cs
